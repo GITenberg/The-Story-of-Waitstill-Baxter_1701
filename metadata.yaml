@@ -1,5 +1,8 @@
 _repo: The-Story-of-Waitstill-Baxter_1701
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wiggin, Kate Douglas Smith
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/266
     wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1701#The-Story-of-Waitstill-Baxter
 gutenberg_issued: '1999-04-01'
 gutenberg_type: Text
 identifiers:
